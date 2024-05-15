@@ -1,6 +1,8 @@
 # Learn-Flutter
 Projects I used to learn Flutter
 
+Note: I only modify the main.dart file
+
 1. wordpair
 - Date: 15/05/2024
 - Tutorial: https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
