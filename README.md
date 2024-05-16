@@ -11,7 +11,7 @@ Note: I only modify the main.dart file, other file if modified was due to the tu
 2. <a href="todolist">todolist</a>
 - Date: 16/05/2024
 - Tutorial: https://youtu.be/VfdTUKt21Ls?si=ARwtQjA671UKvD2y
-- Description: create a simple to list that can add, check done and delete tasks
+- Description: create a simple to-do list that can add, check done and delete tasks
 
 3. 
 - Date: 
