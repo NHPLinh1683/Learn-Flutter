@@ -289,7 +289,7 @@ class _HomePageState extends State<HomePage> {
               contentPadding: const EdgeInsets.all(15),
               hintText: 'Search Pancake',
               hintStyle: const TextStyle(
-                color: Color(0xfDDDADA),
+                color: Color(0x0fdddada),
                 fontSize: 14
               ),
               prefixIcon: Padding(
